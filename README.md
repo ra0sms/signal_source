@@ -1,4 +1,4 @@
-## Signal source for tunning receive antennas
+## Signal source for tuning receive antennas
 
 More information - https://ra0sms.com/signal-source-for-bog/
 
